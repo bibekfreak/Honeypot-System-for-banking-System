@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Honeypot Dashboard</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Banking Honeypot Dashboard</h1>
+    <p class="muted">Refreshes automatically every 3 seconds.</p>
+
+    <div class="cards">
+      <div class="card"><div class="label">Total attacks</div><div id="total" class="value">0</div></div>
+      <div class="card"><div class="label">Unique IPs</div><div id="unique" class="value">0</div></div>
+      <div class="card"><div class="label">Blocked IPs</div><div id="blocked" class="value">0</div></div>
+    </div>
+
+    <div class="grid">
+      <div class="panel">
+        <h2>Attack types</h2>
+        <canvas id="typesChart"></canvas>
+      </div>
+
+      <div class="panel">
+        <h2>Top attackers</h2>
+        <table id="topAttackers">
+          <thead><tr><th>IP</th><th>Count</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>Recent attacks</h2>
+      <table id="recentAttacks">
+        <thead>
+          <tr>
+            <th>Time</th><th>IP</th><th>Type</th><th>Service</th><th>Port</th><th>Severity</th><th>Blocked</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="/static/chart.js"></script>
+</body>
+</html>

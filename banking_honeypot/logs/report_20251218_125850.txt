@@ -1,0 +1,16 @@
+
+========================================
+HONEYPOT SECURITY REPORT
+Generated: 2025-12-18 12:58:50
+========================================
+
+SUMMARY:
+- Total Attack Attempts: 0
+- Unique Attacker IPs: 0
+- Blocked IP Addresses: 0
+
+ATTACK TYPES:
+
+TOP ATTACKERS:
+
+========================================

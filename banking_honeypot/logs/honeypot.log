@@ -1,0 +1,714 @@
+2025-12-18 22:52:33,370 . Tracker . INFO . Loaded 1 blocked IPs
+2025-12-18 22:52:33,372 . FTP . INFO . FTP Honeypot listening on port 2121
+2025-12-18 22:52:33,372 . SSH . INFO . SSH Honeypot listening on port 2222
+2025-12-18 22:52:33,372 . Main . INFO . All honeypot services started
+2025-12-18 22:52:33,372 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2025-12-18 22:57:50,019 . Report . INFO . Report generated . logs\report_20251218_225750.txt
+2025-12-18 22:58:42,271 . Tracker . INFO . Loaded 0 blocked IPs
+2025-12-18 22:58:42,273 . SSH . INFO . SSH Honeypot listening on port 2222
+2025-12-18 22:58:42,273 . FTP . INFO . FTP Honeypot listening on port 2121
+2025-12-18 22:58:42,273 . Main . INFO . All honeypot services started
+2025-12-18 22:58:42,273 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2025-12-18 22:58:50,297 . HTTP . INFO . HTTP request from 127.0.0.1 . GET / HTTP/1.1
+2025-12-18 22:58:50,327 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-18 22:59:00,306 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-18 23:14:20,563 . Report . INFO . Report generated . logs\report_20251218_231420.txt
+2025-12-19 08:55:12,808 . Tracker . INFO . Loaded 0 blocked IPs
+2025-12-19 08:55:12,810 . SSH . INFO . SSH Honeypot listening on port 2222
+2025-12-19 08:55:12,811 . FTP . INFO . FTP Honeypot listening on port 2121
+2025-12-19 08:55:12,811 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2025-12-19 08:55:12,811 . Main . INFO . All honeypot services started
+2025-12-19 08:56:04,819 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-19 08:56:04,908 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-19 08:57:08,995 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2025-12-19 08:57:09,399 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-19 08:57:09,629 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2025-12-19 08:57:10,030 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-19 08:57:10,240 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2025-12-19 08:57:10,641 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-19 08:57:10,846 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2025-12-19 08:57:11,260 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-19 08:57:11,477 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2025-12-19 08:57:11,878 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-19 08:57:12,088 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2025-12-19 08:57:12,490 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-19 08:59:32,021 . Report . INFO . Report generated . logs\report_20251219_085932.txt
+2025-12-19 09:02:57,421 . Tracker . INFO . Loaded 0 blocked IPs
+2025-12-19 09:02:57,423 . SSH . INFO . SSH Honeypot listening on port 2222
+2025-12-19 09:02:57,423 . Main . INFO . All honeypot services started
+2025-12-19 09:02:57,424 . FTP . INFO . FTP Honeypot listening on port 2121
+2025-12-19 09:02:57,424 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2025-12-19 09:03:49,702 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-19 09:03:49,728 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-19 09:04:17,335 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2025-12-19 09:04:17,384 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-19 09:04:27,351 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-19 09:05:57,260 . Report . INFO . Report generated . logs\report_20251219_090557.txt
+2025-12-25 19:08:03,943 . Tracker . INFO . Loaded 0 blocked IPs
+2025-12-25 19:08:03,945 . SSH . INFO . SSH Honeypot listening on port 2222
+2025-12-25 19:08:03,945 . Main . INFO . All honeypot services started
+2025-12-25 19:08:03,945 . FTP . INFO . FTP Honeypot listening on port 2121
+2025-12-25 19:08:03,945 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2025-12-25 19:08:19,960 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-25 19:08:20,006 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 19:08:29,988 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-25 19:08:40,044 . Report . INFO . Report generated . logs\report_20251225_190840.txt
+2025-12-25 19:22:16,767 . Tracker . INFO . Loaded 0 blocked IPs
+2025-12-25 19:22:16,768 . FTP . INFO . FTP Honeypot listening on port 2121
+2025-12-25 19:22:16,768 . SSH . INFO . SSH Honeypot listening on port 2222
+2025-12-25 19:22:16,768 . Main . INFO . All honeypot services started
+2025-12-25 19:22:16,768 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2025-12-25 19:22:22,465 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-25 19:22:22,504 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 19:22:43,444 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2025-12-25 19:22:43,463 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 19:22:49,721 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2025-12-25 19:22:49,745 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 19:22:59,738 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-25 19:24:08,271 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2025-12-25 19:24:08,302 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 19:24:15,191 . Report . INFO . Report generated . logs\report_20251225_192415.txt
+2025-12-25 20:17:39,830 . Tracker . INFO . Loaded 0 blocked IPs
+2025-12-25 20:17:39,831 . SSH . INFO . SSH Honeypot listening on port 2222
+2025-12-25 20:17:39,832 . FTP . INFO . FTP Honeypot listening on port 2121
+2025-12-25 20:17:39,832 . Main . INFO . All honeypot services started
+2025-12-25 20:17:39,832 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2025-12-25 20:17:45,581 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2025-12-25 20:17:45,603 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 20:17:51,740 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2025-12-25 20:17:51,777 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 20:17:59,099 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-25 20:17:59,151 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 20:18:09,124 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-25 20:20:30,823 . Report . INFO . Report generated . logs\report_20251225_202030.txt
+2025-12-25 20:22:04,295 . Tracker . INFO . Loaded 0 blocked IPs
+2025-12-25 20:22:04,297 . SSH . INFO . SSH Honeypot listening on port 2222
+2025-12-25 20:22:04,297 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2025-12-25 20:22:04,297 . FTP . INFO . FTP Honeypot listening on port 2121
+2025-12-25 20:22:04,297 . Main . INFO . All honeypot services started
+2025-12-25 20:22:09,407 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-25 20:22:09,434 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 20:22:10,176 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-25 20:22:10,199 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 20:22:16,573 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-25 20:22:16,633 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 20:22:22,649 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2025-12-25 20:22:22,655 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2025-12-25 20:22:22,697 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 20:22:30,637 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/audit HTTP/1.1
+2025-12-25 20:22:30,659 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 20:22:32,426 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/alerts HTTP/1.1
+2025-12-25 20:22:32,448 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 20:22:33,181 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/settings HTTP/1.1
+2025-12-25 20:22:33,205 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 20:22:43,200 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-25 20:22:47,891 . Report . INFO . Report generated . logs\report_20251225_202247.txt
+2025-12-25 21:40:03,716 . Tracker . INFO . Loaded 0 blocked IPs
+2025-12-25 21:40:03,717 . Main . INFO . All honeypot services started
+2025-12-25 21:40:03,717 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2025-12-25 21:40:03,717 . SSH . INFO . SSH Honeypot listening on port 2222
+2025-12-25 21:40:03,718 . FTP . INFO . FTP Honeypot listening on port 2121
+2025-12-25 21:40:14,046 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-25 21:40:14,099 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:40:18,355 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2025-12-25 21:40:18,379 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:40:23,968 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2025-12-25 21:40:23,993 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:40:32,906 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login/user HTTP/1.1
+2025-12-25 21:40:32,936 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:40:42,930 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-25 21:41:04,808 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/users HTTP/1.1
+2025-12-25 21:41:04,839 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:41:14,829 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-25 21:41:20,559 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/audit HTTP/1.1
+2025-12-25 21:41:20,598 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:41:30,585 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-25 21:41:46,062 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-25 21:41:46,131 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:41:56,080 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-25 21:42:03,187 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2025-12-25 21:42:03,214 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:42:13,201 . HTTP . ERROR . HTTP handler error . timed out
+2025-12-25 21:42:49,425 . Report . INFO . Report generated . logs\report_20251225_214249.txt
+2025-12-25 21:43:31,178 . Tracker . INFO . Loaded 0 blocked IPs
+2025-12-25 21:43:31,179 . SSH . INFO . SSH Honeypot listening on port 2222
+2025-12-25 21:43:31,179 . FTP . INFO . FTP Honeypot listening on port 2121
+2025-12-25 21:43:31,179 . Main . INFO . All honeypot services started
+2025-12-25 21:43:31,179 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2025-12-25 21:43:44,622 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2025-12-25 21:43:44,682 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:43:49,018 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2025-12-25 21:43:49,024 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2025-12-25 21:43:49,062 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:44:10,485 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:44:41,662 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2025-12-25 21:44:41,694 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2025-12-25 21:44:49,061 . Report . INFO . Report generated . logs\report_20251225_214449.txt
+2026-01-02 14:05:11,310 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 14:05:11,312 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 14:05:11,312 . Main . INFO . All honeypot services started
+2026-01-02 14:05:11,312 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 14:05:11,313 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 14:05:23,595 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:05:23,627 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:05:30,280 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-01-02 14:05:30,324 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:05:36,685 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2026-01-02 14:05:36,691 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 14:05:36,739 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:05:50,561 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/audit HTTP/1.1
+2026-01-02 14:05:50,582 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:05:51,579 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/users HTTP/1.1
+2026-01-02 14:05:51,608 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:05:52,639 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/alerts HTTP/1.1
+2026-01-02 14:05:52,664 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:05:53,073 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/settings HTTP/1.1
+2026-01-02 14:05:53,096 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:06:03,081 . HTTP . ERROR . HTTP handler error . timed out
+2026-01-02 14:06:04,049 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 14:06:04,078 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:06:04,995 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 14:06:05,020 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:06:12,940 . Report . INFO . Report generated . logs\report_20260102_140612.txt
+2026-01-02 14:15:32,040 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 14:15:32,041 . Main . INFO . All honeypot services started
+2026-01-02 14:15:32,041 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 14:15:32,041 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 14:15:32,042 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 14:17:18,396 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /upload HTTP/1.1
+2026-01-02 14:17:50,438 . HTTP . ERROR . HTTP handler error . timed out
+2026-01-02 14:17:59,698 . Report . INFO . Report generated . logs\report_20260102_141759.txt
+2026-01-02 14:23:37,199 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 14:23:37,201 . Main . INFO . All honeypot services started
+2026-01-02 14:23:37,201 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 14:23:37,201 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 14:23:37,201 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 14:23:57,781 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:23:58,198 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:23:58,418 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:23:58,827 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:23:59,131 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:23:59,544 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:23:59,752 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:24:00,162 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:24:00,370 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:24:00,780 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:24:00,984 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:24:01,405 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:24:05,013 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:24:05,435 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:24:05,641 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:24:06,057 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:24:06,259 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:24:06,680 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:24:06,904 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:24:07,318 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:24:07,538 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:24:07,955 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:24:08,173 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:24:08,582 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:24:14,738 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 14:24:14,761 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:35,857 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 14:24:35,876 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:36,515 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 14:24:36,537 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:36,713 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 14:24:36,736 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:36,883 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 14:24:36,904 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:37,046 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 14:24:37,075 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:37,226 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 14:24:37,248 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:47,233 . HTTP . ERROR . HTTP handler error . timed out
+2026-01-02 14:24:48,761 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:48,803 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:55,307 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:55,333 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:55,970 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:55,993 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:56,434 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:56,462 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:56,674 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:56,700 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:56,871 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:56,891 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:57,057 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:57,082 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:57,217 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:57,243 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:57,407 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:57,428 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:57,571 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:57,596 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:57,736 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:57,756 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:57,936 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:57,960 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:58,081 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:58,108 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:58,258 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:58,286 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:58,439 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:58,463 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:58,809 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:58,833 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:59,003 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:59,030 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:59,186 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:59,210 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:59,362 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:59,386 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:24:59,546 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:24:59,568 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:01,732 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:01,755 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:03,161 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:03,187 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:03,371 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:03,396 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:03,539 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:03,560 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:03,730 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:03,754 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:03,899 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:03,924 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:32,302 . HTTP . ERROR . HTTP handler error . timed out
+2026-01-02 14:25:41,664 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:41,686 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:41,898 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:41,921 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:42,081 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:42,102 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:42,274 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:42,302 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:42,450 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:42,472 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:42,626 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:42,653 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:42,825 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:42,849 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:43,018 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:43,043 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:43,186 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:43,211 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:43,369 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:43,392 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:43,561 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:43,588 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:43,714 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:43,739 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:43,923 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:43,951 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:44,098 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:44,122 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:44,275 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:44,306 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:44,442 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:44,468 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:44,612 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:44,636 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:25:44,786 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-02 14:25:44,811 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:26:58,224 . HTTP . ERROR . HTTP handler error . timed out
+2026-01-02 14:27:33,635 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-01-02 14:27:33,690 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:27:43,651 . HTTP . ERROR . HTTP handler error . timed out
+2026-01-02 14:30:12,048 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:30:12,252 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:30:12,464 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:30:12,684 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:30:12,894 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:30:13,096 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:30:13,316 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:30:13,526 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:30:13,752 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:30:13,964 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:30:14,184 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:30:14,394 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:30:28,962 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-01-02 14:30:28,986 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:30:29,626 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-01-02 14:30:29,651 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:30:39,635 . HTTP . ERROR . HTTP handler error . timed out
+2026-01-02 14:31:05,227 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:31:05,435 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:31:05,642 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:31:05,848 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:31:06,073 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:31:06,280 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:31:06,487 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:31:06,696 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:31:06,918 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:31:07,124 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:31:07,347 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:31:07,555 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:33:59,674 . Report . INFO . Report generated . logs\report_20260102_143359.txt
+2026-01-02 14:56:16,994 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 14:56:16,995 . Main . INFO . All honeypot services started
+2026-01-02 14:56:16,995 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 14:56:16,995 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 14:56:16,995 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 14:56:31,678 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:56:31,891 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:56:32,094 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:56:32,301 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:56:32,524 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:56:32,733 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:56:32,972 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:56:33,180 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:56:33,384 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:56:33,594 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:56:33,817 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'admin\r\n'
+2026-01-02 14:56:34,021 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 14:56:54,994 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-01-02 14:56:55,013 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:56:55,739 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-01-02 14:56:55,759 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:56:55,962 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-01-02 14:56:55,984 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:56:56,147 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-01-02 14:56:56,167 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 14:57:06,154 . HTTP . ERROR . HTTP handler error . timed out
+2026-01-02 14:57:34,189 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /upload HTTP/1.1
+2026-01-02 14:59:35,790 . Report . INFO . Report generated . logs\report_20260102_145935.txt
+2026-01-02 15:24:16,754 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 15:24:16,756 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 15:24:16,756 . Main . INFO . All honeypot services started
+2026-01-02 15:24:16,756 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 15:24:16,756 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 15:24:29,178 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-02 15:24:29,900 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 15:24:30,127 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-02 15:24:30,846 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 15:24:31,066 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-02 15:24:31,783 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 15:24:31,986 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-02 15:24:32,730 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 15:24:32,940 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-02 15:24:33,358 . Tracker . CRITICAL . ALERT [HIGH] . SSH Brute Force Attack . Source: 127.0.0.1
+2026-01-02 15:24:33,359 . Tracker . WARNING . BLOCKED IP: 127.0.0.1 . Reason: SSH Brute Force Attack . Severity: high
+2026-01-02 15:26:22,217 . Report . INFO . Report generated . logs\report_20260102_152622.txt
+2026-01-02 16:25:25,184 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 16:25:25,185 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 16:25:25,185 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 16:25:25,185 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 16:25:25,185 . Main . INFO . All honeypot services started
+2026-01-02 16:27:18,945 . Report . INFO . Report generated . logs\report_20260102_162718.txt
+2026-01-02 16:29:01,327 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 16:29:01,329 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 16:29:01,329 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 16:29:01,329 . Main . INFO . All honeypot services started
+2026-01-02 16:29:01,329 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 16:31:01,035 . Report . INFO . Report generated . logs\report_20260102_163101.txt
+2026-01-02 16:35:52,891 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 16:35:52,893 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 16:35:52,893 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 16:35:52,893 . Main . INFO . All honeypot services started
+2026-01-02 16:35:52,893 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 16:37:20,765 . Report . INFO . Report generated . logs\report_20260102_163720.txt
+2026-01-02 16:44:24,329 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 16:44:24,330 . Main . INFO . All honeypot services started
+2026-01-02 16:44:24,330 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 16:44:24,330 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 16:44:24,330 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 16:45:28,057 . Report . INFO . Report generated . logs\report_20260102_164528.txt
+2026-01-02 16:46:38,375 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 16:46:38,377 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 16:46:38,377 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 16:46:38,377 . Main . INFO . All honeypot services started
+2026-01-02 16:46:38,377 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 16:47:00,224 . Report . INFO . Report generated . logs\report_20260102_164700.txt
+2026-01-02 16:47:55,263 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 16:47:55,265 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 16:47:55,265 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 16:47:55,265 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 16:47:55,265 . Main . INFO . All honeypot services started
+2026-01-02 16:49:59,529 . Report . INFO . Report generated . logs\report_20260102_164959.txt
+2026-01-02 19:15:12,141 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 19:15:12,143 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 19:15:12,143 . Main . INFO . All honeypot services started
+2026-01-02 19:15:12,143 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 19:15:12,143 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 19:18:24,492 . Report . INFO . Report generated . logs\report_20260102_191824.txt
+2026-01-02 19:18:55,245 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 19:18:55,247 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 19:18:55,247 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 19:18:55,247 . Main . INFO . All honeypot services started
+2026-01-02 19:18:55,248 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 19:21:08,698 . Report . INFO . Report generated . logs\report_20260102_192108.txt
+2026-01-02 19:21:13,103 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 19:21:13,106 . Main . INFO . All honeypot services started
+2026-01-02 19:21:13,106 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 19:21:13,106 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 19:21:13,106 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 19:21:58,330 . Report . INFO . Report generated . logs\report_20260102_192158.txt
+2026-01-02 19:22:33,491 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 19:22:33,492 . Main . INFO . All honeypot services started
+2026-01-02 19:22:33,493 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 19:22:33,493 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 19:22:33,493 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 19:24:40,153 . Report . INFO . Report generated . logs\report_20260102_192440.txt
+2026-01-02 19:28:32,586 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 19:28:32,588 . Main . INFO . All honeypot services started
+2026-01-02 19:28:32,588 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 19:28:32,588 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 19:28:32,588 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 19:30:11,187 . Report . INFO . Report generated . logs\report_20260102_193011.txt
+2026-01-02 19:31:25,513 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 19:31:25,514 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 19:31:25,515 . Main . INFO . All honeypot services started
+2026-01-02 19:31:25,515 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 19:31:25,515 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 19:32:42,685 . Report . INFO . Report generated . logs\report_20260102_193242.txt
+2026-01-02 19:53:37,161 . Tracker . INFO . Loaded 1 blocked IPs
+2026-01-02 19:53:37,163 . Main . INFO . All honeypot services started
+2026-01-02 19:53:37,163 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 19:53:37,163 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 19:53:37,163 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 19:56:48,357 . Report . INFO . Report generated . logs\report_20260102_195648.txt
+2026-01-02 20:14:25,278 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 20:14:25,281 . Main . INFO . All honeypot services started
+2026-01-02 20:14:25,281 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 20:14:25,281 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 20:14:25,281 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 20:14:40,203 . HTTP . INFO . HTTP request from 127.0.0.1 . GET / HTTP/1.1
+2026-01-02 20:14:40,278 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 20:14:50,226 . HTTP . ERROR . HTTP handler error . timed out
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\code\banking-honeypot\honeypot\services\http.py", line 403, in handle_client
+    raw = client_socket.recv(8192).decode("utf-8", errors="ignore")
+          ~~~~~~~~~~~~~~~~~~^^^^^^
+TimeoutError: timed out
+
+2026-01-02 20:15:06,030 . HTTP . INFO . HTTP request from 127.0.0.1 . GET / HTTP/1.1
+2026-01-02 20:15:06,073 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 20:15:16,049 . HTTP . ERROR . HTTP handler error . timed out
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\code\banking-honeypot\honeypot\services\http.py", line 403, in handle_client
+    raw = client_socket.recv(8192).decode("utf-8", errors="ignore")
+          ~~~~~~~~~~~~~~~~~~^^^^^^
+TimeoutError: timed out
+
+2026-01-02 20:15:51,108 . Report . INFO . Report generated . logs\report_20260102_201551.txt
+2026-01-02 20:16:28,889 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 20:16:28,891 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 20:16:28,891 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 20:16:28,891 . Main . INFO . All honeypot services started
+2026-01-02 20:16:28,891 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 20:17:18,267 . FTP . ERROR . FTP handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 20:18:02,717 . HTTP . ERROR . HTTP handler error . timed out
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\code\banking-honeypot\honeypot\services\http.py", line 403, in handle_client
+    raw = client_socket.recv(8192).decode("utf-8", errors="ignore")
+          ~~~~~~~~~~~~~~~~~~^^^^^^
+TimeoutError: timed out
+
+2026-01-02 20:22:40,884 . Report . INFO . Report generated . logs\report_20260102_202240.txt
+2026-01-02 20:29:28,648 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 20:29:28,650 . Main . INFO . All honeypot services started
+2026-01-02 20:29:28,650 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 20:29:28,650 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 20:29:28,650 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 20:29:40,866 . HTTP . INFO . HTTP request from 127.0.0.1 . GET / HTTP/1.1
+2026-01-02 20:29:40,892 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 20:29:43,743 . HTTP . INFO . HTTP request from 127.0.0.1 . GET / HTTP/1.1
+2026-01-02 20:29:43,766 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 20:29:47,236 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2026-01-02 20:29:47,241 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-02 20:29:47,275 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 20:29:55,181 . Report . INFO . Report generated . logs\report_20260102_202955.txt
+2026-01-02 20:37:23,913 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 20:37:23,914 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 20:37:23,914 . Main . INFO . All honeypot services started
+2026-01-02 20:37:23,915 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 20:37:23,915 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 20:38:25,213 . Report . INFO . Report generated . logs\report_20260102_203825.txt
+2026-01-02 20:39:27,189 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 20:39:27,190 . Main . INFO . All honeypot services started
+2026-01-02 20:39:27,190 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 20:39:27,190 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 20:39:27,190 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 20:39:32,147 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /..\..\Windows\win.ini HTTP/1.1
+2026-01-02 20:39:45,335 . Report . INFO . Report generated . logs\report_20260102_203945.txt
+2026-01-02 21:00:10,766 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 21:00:10,767 . Main . INFO . All honeypot services started
+2026-01-02 21:00:10,768 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 21:00:10,768 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 21:00:10,768 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 21:00:17,664 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /..\..\Windows\win.ini HTTP/1.1
+2026-01-02 21:03:40,549 . Report . INFO . Report generated . logs\report_20260102_210340.txt
+2026-01-02 21:04:08,974 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 21:04:08,975 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 21:04:08,975 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 21:04:08,975 . Main . INFO . All honeypot services started
+2026-01-02 21:04:08,976 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 21:04:26,334 . FTP . INFO . FTP command from 127.0.0.1 . USER admin
+2026-01-02 21:04:26,489 . FTP . INFO . FTP command from 127.0.0.1 . PASS test1
+2026-01-02 21:04:26,698 . FTP . ERROR . FTP handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 21:04:26,904 . FTP . INFO . FTP command from 127.0.0.1 . USER admin
+2026-01-02 21:04:27,063 . FTP . INFO . FTP command from 127.0.0.1 . PASS test2
+2026-01-02 21:04:27,269 . FTP . ERROR . FTP handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 21:04:27,479 . FTP . INFO . FTP command from 127.0.0.1 . USER admin
+2026-01-02 21:04:27,650 . FTP . INFO . FTP command from 127.0.0.1 . PASS test3
+2026-01-02 21:04:27,850 . FTP . ERROR . FTP handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 21:04:28,057 . FTP . INFO . FTP command from 127.0.0.1 . USER admin
+2026-01-02 21:04:28,215 . FTP . INFO . FTP command from 127.0.0.1 . PASS test4
+2026-01-02 21:04:28,422 . FTP . ERROR . FTP handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 21:04:28,628 . FTP . INFO . FTP command from 127.0.0.1 . USER admin
+2026-01-02 21:04:28,787 . FTP . INFO . FTP command from 127.0.0.1 . PASS test5
+2026-01-02 21:04:28,799 . Tracker . CRITICAL . ALERT [MEDIUM] . FTP Brute Force Attack . Source: 127.0.0.1
+2026-01-02 21:04:28,799 . Tracker . WARNING . BLOCKED IP: 127.0.0.1 . Reason: FTP Brute Force Attack . Severity: medium
+2026-01-02 21:05:03,878 . Report . INFO . Report generated . logs\report_20260102_210503.txt
+2026-01-02 21:14:26,536 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 21:14:26,538 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 21:14:26,538 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 21:14:26,538 . Main . INFO . All honeypot services started
+2026-01-02 21:14:26,538 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 21:15:01,342 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-02 21:15:02,059 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 21:15:02,263 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-02 21:15:02,987 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 21:15:03,200 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-02 21:15:03,926 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 21:15:04,144 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-02 21:15:04,870 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 21:15:05,077 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-02 21:15:05,493 . Tracker . CRITICAL . ALERT [HIGH] . SSH Brute Force Attack . Source: 127.0.0.1
+2026-01-02 21:15:05,493 . Tracker . WARNING . BLOCKED IP: 127.0.0.1 . Reason: SSH Brute Force Attack . Severity: high
+2026-01-02 21:15:48,254 . Report . INFO . Report generated . logs\report_20260102_211548.txt
+2026-01-02 21:29:58,258 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-02 21:29:58,259 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-02 21:29:58,259 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-02 21:29:58,259 . Main . INFO . All honeypot services started
+2026-01-02 21:29:58,259 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-02 21:30:30,585 . HTTP . INFO . HTTP request from 127.0.0.1 . GET / HTTP/1.1
+2026-01-02 21:30:30,611 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-02 21:31:00,598 . HTTP . INFO . HTTP client timed out before sending data . ip=127.0.0.1
+2026-01-02 21:31:09,312 . HTTP . ERROR . HTTP handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\code\banking-honeypot\honeypot\services\http.py", line 403, in handle_client
+    raw = client_socket.recv(8192).decode("utf-8", errors="ignore")
+          ~~~~~~~~~~~~~~~~~~^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+2026-01-02 21:32:09,030 . Report . INFO . Report generated . logs\report_20260102_213209.txt
+2026-01-06 09:05:30,182 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-06 09:05:30,186 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-06 09:05:30,187 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-06 09:05:30,187 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-06 09:05:30,188 . Main . INFO . All honeypot services started
+2026-01-06 09:05:39,054 . HTTP . INFO . HTTP request from 127.0.0.1 . GET / HTTP/1.1
+2026-01-06 09:05:39,144 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-06 09:06:09,073 . HTTP . INFO . HTTP client timed out before sending data . ip=127.0.0.1
+2026-01-09 07:51:03,153 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-09 07:51:03,156 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-09 07:51:03,156 . Main . INFO . All honeypot services started
+2026-01-09 07:51:03,156 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-09 07:51:03,156 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-09 07:51:22,697 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-01-09 07:51:22,784 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-09 07:51:52,734 . HTTP . INFO . HTTP client timed out before sending data . ip=127.0.0.1
+2026-01-09 07:52:36,354 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-01-09 07:52:36,398 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-09 07:53:06,385 . HTTP . INFO . HTTP client timed out before sending data . ip=127.0.0.1
+2026-01-09 07:55:39,545 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2026-01-09 07:55:39,598 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-09 07:56:57,815 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-09 07:56:58,557 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-09 07:56:58,795 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-09 07:56:59,541 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-09 07:56:59,768 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-09 07:57:00,487 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-09 07:57:00,696 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-09 07:57:01,418 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-09 07:57:01,635 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-01-09 07:57:02,069 . Tracker . CRITICAL . ALERT [HIGH] . SSH Brute Force Attack . Source: 127.0.0.1
+2026-01-09 07:57:02,070 . Tracker . WARNING . BLOCKED IP: 127.0.0.1 . Reason: SSH Brute Force Attack . Severity: high
+2026-01-09 07:57:54,907 . Report . INFO . Report generated . logs\report_20260109_075754.txt
+2026-01-09 07:59:59,042 . Tracker . INFO . Loaded 0 blocked IPs
+2026-01-09 07:59:59,045 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-01-09 07:59:59,045 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-01-09 07:59:59,045 . Main . INFO . All honeypot services started
+2026-01-09 07:59:59,046 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-01-09 08:00:00,929 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-01-09 08:00:00,986 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-09 08:00:16,696 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2026-01-09 08:00:16,703 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-01-09 08:00:16,764 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-09 08:00:26,885 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/users HTTP/1.1
+2026-01-09 08:00:26,914 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-09 08:00:28,984 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/audit HTTP/1.1
+2026-01-09 08:00:29,016 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-09 08:00:29,936 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/alerts HTTP/1.1
+2026-01-09 08:00:29,960 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-09 08:00:30,861 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/settings HTTP/1.1
+2026-01-09 08:00:30,888 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-09 08:00:38,919 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-01-09 08:01:03,428 . Report . INFO . Report generated . logs\report_20260109_080103.txt
+2026-02-10 11:33:45,788 . Tracker . INFO . Loaded 0 blocked IPs
+2026-02-10 11:33:45,790 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-02-10 11:33:45,791 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-02-10 11:33:45,791 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-02-10 11:33:45,791 . Main . INFO . All honeypot services started
+2026-02-10 11:34:02,321 . HTTP . INFO . HTTP request from 127.0.0.1 . GET / HTTP/1.1
+2026-02-10 11:34:02,394 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-02-10 11:34:32,331 . HTTP . INFO . HTTP client timed out before sending data . ip=127.0.0.1
+2026-02-10 11:35:08,852 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /login HTTP/1.1
+2026-02-10 11:35:08,857 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /admin/dashboard HTTP/1.1
+2026-02-10 11:35:08,893 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-02-10 11:37:40,312 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-02-10 11:37:40,341 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-02-10 11:37:58,048 . Report . INFO . Report generated . logs\report_20260210_113758.txt
+2026-02-17 07:29:03,916 . Tracker . INFO . Loaded 0 blocked IPs
+2026-02-17 07:29:03,918 . Main . INFO . All honeypot services started
+2026-02-17 07:29:03,919 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-02-17 07:29:03,919 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-02-17 07:29:03,919 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-02-17 07:29:23,993 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login HTTP/1.1
+2026-02-17 07:29:24,160 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-02-17 07:29:50,599 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /login?user=admin' OR '1'='1 HTTP/1.1
+2026-02-17 07:29:50,630 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /favicon.ico HTTP/1.1
+2026-02-17 07:30:41,908 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-02-17 07:30:42,626 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-02-17 07:30:42,842 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-02-17 07:30:43,570 . SSH . ERROR . SSH handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-02-17 07:30:43,784 . SSH . INFO . SSH connection from 127.0.0.1 . Banner: b'SSH-2.0-OpenSSH_9.0\r\n'
+2026-02-17 07:30:44,216 . Tracker . CRITICAL . ALERT [HIGH] . SSH Brute Force Attack . Source: 127.0.0.1
+2026-02-17 07:30:44,216 . Tracker . WARNING . BLOCKED IP: 127.0.0.1 . Reason: SSH Brute Force Attack . Severity: high
+2026-02-17 07:31:01,785 . HTTP . INFO . HTTP client timed out before sending data . ip=127.0.0.1
+2026-02-17 07:31:23,748 . Report . INFO . Report generated . logs\report_20260217_073123.txt
+2026-02-17 07:32:03,761 . Tracker . INFO . Loaded 0 blocked IPs
+2026-02-17 07:32:03,764 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-02-17 07:32:03,764 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-02-17 07:32:03,764 . Main . INFO . All honeypot services started
+2026-02-17 07:32:03,764 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-02-17 07:34:24,500 . FTP . INFO . FTP command from 127.0.0.1 . USER admin
+2026-02-17 07:34:24,660 . FTP . INFO . FTP command from 127.0.0.1 . PASS test1
+2026-02-17 07:34:24,873 . FTP . ERROR . FTP handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-02-17 07:34:25,084 . FTP . INFO . FTP command from 127.0.0.1 . USER admin
+2026-02-17 07:34:25,242 . FTP . INFO . FTP command from 127.0.0.1 . PASS test2
+2026-02-17 07:34:25,450 . FTP . ERROR . FTP handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-02-17 07:34:25,658 . FTP . INFO . FTP command from 127.0.0.1 . USER admin
+2026-02-17 07:34:25,812 . FTP . INFO . FTP command from 127.0.0.1 . PASS test3
+2026-02-17 07:34:26,023 . FTP . ERROR . FTP handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-02-17 07:34:26,229 . FTP . INFO . FTP command from 127.0.0.1 . USER admin
+2026-02-17 07:34:26,391 . FTP . INFO . FTP command from 127.0.0.1 . PASS test4
+2026-02-17 07:34:26,597 . FTP . ERROR . FTP handler error . [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-02-17 07:34:26,806 . FTP . INFO . FTP command from 127.0.0.1 . USER admin
+2026-02-17 07:34:26,962 . FTP . INFO . FTP command from 127.0.0.1 . PASS test5
+2026-02-17 07:34:26,970 . Tracker . CRITICAL . ALERT [MEDIUM] . FTP Brute Force Attack . Source: 127.0.0.1
+2026-02-17 07:34:26,970 . Tracker . WARNING . BLOCKED IP: 127.0.0.1 . Reason: FTP Brute Force Attack . Severity: medium
+2026-02-17 07:34:57,175 . Report . INFO . Report generated . logs\report_20260217_073457.txt
+2026-02-17 07:35:34,962 . Tracker . INFO . Loaded 0 blocked IPs
+2026-02-17 07:35:34,964 . Main . INFO . All honeypot services started
+2026-02-17 07:35:34,964 . SSH . INFO . SSH Honeypot listening on port 2222
+2026-02-17 07:35:34,964 . FTP . INFO . FTP Honeypot listening on port 2121
+2026-02-17 07:35:34,964 . HTTP . INFO . HTTP Honeypot listening on port 8080
+2026-02-17 07:36:26,145 . HTTP . INFO . HTTP client timed out before sending data . ip=127.0.0.1
+2026-02-17 07:36:55,070 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /....//....//....//etc/passwd HTTP/1.1
+2026-02-17 07:38:20,103 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /view?path=..\..\..\Windows\win.ini HTTP/1.1
+2026-02-17 07:44:19,271 . HTTP . INFO . HTTP request from 127.0.0.1 . POST /upload HTTP/1.1
+2026-02-17 07:49:33,126 . HTTP . INFO . HTTP request from 127.0.0.1 . GET /../../../../etc/passwd .jpg HTTP/1.1
+2026-02-17 07:55:29,711 . Report . INFO . Report generated . logs\report_20260217_075529.txt

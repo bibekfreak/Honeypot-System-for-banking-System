@@ -1,0 +1,21 @@
+
+========================================
+HONEYPOT SECURITY REPORT
+Generated: 2026-01-02 14:33:59
+========================================
+
+SUMMARY:
+- Total Attack Attempts: 122
+- Unique Attacker IPs: 1
+- Blocked IP Addresses: 0
+
+ATTACK TYPES:
+- sql_injection: 115
+- ftp_bruteforce: 5
+- ssh_bruteforce: 1
+- malware_upload: 1
+
+TOP ATTACKERS:
+- 127.0.0.1: 122 attempts
+
+========================================

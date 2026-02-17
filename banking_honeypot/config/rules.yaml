@@ -1,0 +1,49 @@
+ssh_bruteforce:
+  threshold: 5
+  time_window: 60
+  severity: high
+  action: block_ip
+
+ftp_bruteforce:
+  threshold: 5
+  time_window: 60
+  severity: medium
+  action: block_ip
+
+sql_injection:
+  patterns:
+    - "'.*OR.*'='"
+    - "UNION.*SELECT"
+    - "DROP.*TABLE"
+    - "INSERT.*INTO"
+  severity: critical
+  action: block_and_alert
+
+directory_traversal:
+  patterns:
+    - '\.\./'
+    - '\.\.\\'
+    - '%2e%2e%2f'
+    - '%2e%2e%5c'
+    - '%252e%252e'
+    - '\.\.%2f'
+    - '\.\.%5c'
+  severity: high
+  action: block_request
+
+port_scan:
+  threshold: 10
+  time_window: 30
+  severity: medium
+  action: block_ip
+
+malware_upload:
+  extensions:
+    - ".exe"
+    - ".sh"
+    - ".bat"
+    - ".vbs"
+    - ".ps1"
+    - ".dll"
+  severity: critical
+  action: quarantine_and_block

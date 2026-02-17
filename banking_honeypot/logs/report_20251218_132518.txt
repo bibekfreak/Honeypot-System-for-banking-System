@@ -1,0 +1,18 @@
+
+========================================
+HONEYPOT SECURITY REPORT
+Generated: 2025-12-18 13:25:18
+========================================
+
+SUMMARY:
+- Total Attack Attempts: 10
+- Unique Attacker IPs: 1
+- Blocked IP Addresses: 0
+
+ATTACK TYPES:
+- sql_injection: 10
+
+TOP ATTACKERS:
+- 127.0.0.1: 10 attempts
+
+========================================

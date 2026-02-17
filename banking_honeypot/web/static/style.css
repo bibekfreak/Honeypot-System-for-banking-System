@@ -1,0 +1,15 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #0b0f14; color: #e8eef6; }
+.container { max-width: 1100px; margin: 0 auto; padding: 18px; }
+h1 { margin: 0 0 8px 0; }
+.muted { color: #9bb0c5; margin-top: 0; }
+
+.cards { display: flex; gap: 12px; margin: 16px 0; }
+.card { background: #121a23; border: 1px solid #1f2a36; border-radius: 12px; padding: 14px 16px; min-width: 220px; }
+.label { color: #9bb0c5; font-size: 13px; }
+.value { font-size: 32px; margin-top: 6px; font-weight: 700; }
+
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 10px; }
+.panel { background: #121a23; border: 1px solid #1f2a36; border-radius: 12px; padding: 14px 16px; margin-top: 14px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border-bottom: 1px solid #1f2a36; padding: 10px 8px; font-size: 13px; }
+th { color: #9bb0c5; text-align: left; }
